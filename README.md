@@ -3,4 +3,4 @@ Project made for numbers recognition using Keras to build the CNN(Convolution Ne
 
 On this project we have also tested the transfer learning and data augmentation techniques.
 
-Project realized by Alejandro Simón Rodríguez && Iñaki Garcia Ramos
+Project realized by Alejandro Simón Rodríguez and Iñaki García Ramos
